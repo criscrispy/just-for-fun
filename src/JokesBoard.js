@@ -147,7 +147,7 @@ class JokesBoard extends Component {
             <div className='JokesBoard'>
                 <div className='JokesBoard-sidebar'>
                     <h1 className='JokesBoard-title'>
-                        <span>Dad</span> Jokes
+                        <span>Fun</span> Jokes
                     </h1>
                     <img src='https://assets.dryicons.com/uploads/icon/svg/8927/0eb14c71-38f2-433a-bfc8-23d9c99b3647.svg' alt='side-bar-laugh-icon' />
                     <button className='JokesBoard-getmore' onClick={this.handleClickForNewJokes}>
